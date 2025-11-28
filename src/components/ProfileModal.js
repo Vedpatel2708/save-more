@@ -1,4 +1,3 @@
-// ==================== FIXED FILE: src/components/ProfileModal.js ====================
 import React from 'react';
 import { X, User, Mail, Phone, MapPin } from 'lucide-react';
 
