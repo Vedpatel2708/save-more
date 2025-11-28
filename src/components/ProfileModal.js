@@ -1,5 +1,6 @@
+// ==================== FIXED FILE: src/components/ProfileModal.js ====================
 import React from 'react';
-import { X, User, Mail, Phone, MapPin, MapPinned } from 'lucide-react';
+import { X, User, Mail, Phone, MapPin } from 'lucide-react';
 
 const ProfileModal = ({ 
   showProfileModal, 
@@ -84,7 +85,7 @@ const ProfileModal = ({
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2 flex items-center gap-2">
-                <MapPinned className="w-4 h-4" />
+                <MapPin className="w-4 h-4" />
                 City *
               </label>
               <input
