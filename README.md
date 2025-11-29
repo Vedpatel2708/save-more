@@ -110,7 +110,7 @@ savemore/
 ### Steps
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/savemore.git
+git clone https://github.com/Vedpatel2708/savemore.git
 cd savemore
 
 # Install dependencies
@@ -251,9 +251,9 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Email:** support@savemore.com  
+**Email:** vedpatel3283@gmail.com  
 **Location:** Ahmedabad, Gujarat, India  
-**Phone:** +91 99999 88888
+**Phone:** +91 9825184700
 
 ---
 
